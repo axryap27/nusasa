@@ -1,1 +1,3 @@
-Website for Northwestern SASA
+website for northwestern SASA
+
+stack: typescript, next.js, supabase, shadcn/ui
