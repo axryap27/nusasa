@@ -14,11 +14,11 @@ const upcoming = [
   },
   {
     id: 2,
-    date: "Mar 22, 2026",
-    title: "Desi Night",
+    date: "Feb 27, 2026",
+    title: "Mock Shaadi AP",
     description:
-      "A night of Bollywood music, dancing, and South Asian food. One of our biggest social events of the year.",
-    location: "Norris University Center",
+      "Come join us in Chicago to celebrate the newly-wedded!",
+    location: "Hubbard In, Chicago",
     tag: "Social",
   },
 ];
