@@ -21,12 +21,9 @@ const values = [
 ];
 
 const board = [
-  { name: "Priya Sharma", role: "President", initials: "PS" },
-  { name: "Arjun Mehta", role: "Vice President", initials: "AM" },
-  { name: "Sana Hussain", role: "Treasurer", initials: "SH" },
-  { name: "Rohan Patel", role: "Events Chair", initials: "RP" },
-  { name: "Kavya Nair", role: "Marketing Chair", initials: "KN" },
-  { name: "Dev Kapoor", role: "Cultural Chair", initials: "DK" },
+  { name: "Shaili Das", role: "President", initials: "SD" },
+  { name: "Jainik Shroff", role: "President", initials: "JK" },
+  { name: "Aarya Patel", role: "Treasurer", initials: "AP" },
 ];
 
 export default function About() {
@@ -39,13 +36,12 @@ export default function About() {
           <p>
             The Northwestern University South Asian Student Alliance (NUSASA) is a
             cultural and community organization dedicated to fostering a welcoming
-            environment for South Asian students and allies at Northwestern.
+            environment for South Asian community at Northwestern.
           </p>
           <p>
             Founded by students who wanted a stronger sense of South Asian community
             on campus, NUSASA has grown into one of Northwestern&apos;s most active
-            cultural organizations — hosting dozens of events each year ranging from
-            large-scale cultural showcases to intimate community dinners.
+            cultural organizations.
           </p>
         </div>
       </section>

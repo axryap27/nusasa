@@ -5,6 +5,28 @@ import { Separator } from "@/components/ui/separator";
 const upcoming = [
   {
     id: 1,
+    date: "April 18, 2026",
+    title: "Holi",
+    description:
+      "Fill your Saturday with color and fun, celebrate with us on the Lakefill",
+    location: "Lakefill",
+    tag: "Cultural",
+  },
+  {
+    id: 2,
+    date: "April 18, 2026",
+    title: "Holi AP",
+    description:
+      "Keep the fun going with a chicago after on the rooftops of Azul.",
+    location: "Azul Rooftop",
+    tag: "Social",
+  },
+
+];
+
+const past = [
+  {
+    id: 3,
     date: "Feb 27, 2026",
     title: "Mock Shaadi",
     description:
@@ -13,7 +35,7 @@ const upcoming = [
     tag: "Social",
   },
   {
-    id: 2,
+    id: 4,
     date: "Feb 27, 2026",
     title: "Mock Shaadi AP",
     description:
@@ -21,32 +43,13 @@ const upcoming = [
     location: "Hubbard In, Chicago",
     tag: "Social",
   },
-];
-
-const past = [
   {
-    id: 4,
+    id: 5,
     date: "Feb 7, 2026",
     title: "SASA Show",
     description: "Our annual showcase featuring dance, music, and cultural performances by the South Asian community of Northwestern",
     location: "Cahn Auditorium",
     tag: "Cultural",
-  },
-  {
-    id: 5,
-    date: "Feb 3, 2026",
-    title: "Mehendi & Maggi",
-    description: "Fun evening of mehendi, Maggi noodles, and good company before SASA Show",
-    location: "The Link Evanston Social Lounge",
-    tag: "Social",
-  },
-  {
-    id: 6,
-    date: "Jan 29, 2026",
-    title: "Desi Night @ Deuce",
-    description: "A night of Bollywood and desi music at Mark II Lounge",
-    location: "Mark II Lounge",
-    tag: "Social",
   },
 ];
 

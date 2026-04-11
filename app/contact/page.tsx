@@ -69,10 +69,10 @@ export default function Contact() {
             <div>
               <p className="font-medium">Email</p>
               <a
-                href="mailto:nusasa@u.northwestern.edu"
+                href="mailto:northwesternsasa@gmail.edu"
                 className="text-muted-foreground hover:text-foreground transition-colors"
               >
-                nusasa@u.northwestern.edu
+                NorthwesternSASA@gmail.com
               </a>
             </div>
             <div>
